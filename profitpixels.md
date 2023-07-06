@@ -2,7 +2,7 @@
 
 Affiliate marketing has emerged as a lucrative industry, offering individuals the opportunity to earn passive income by promoting products and services. However, the key to achieving success lies in selecting the right affiliate network that aligns with your niche and goals. In this article, we will explore the benefits of working with an affiliate network like [Profit Pixels](https://profitpixels.com/)  that offers in-house and direct affiliate offers, catering to diverse niches such as Crypto, Forex, Nutra, and Astrology.
 
-<p align="center">![enter image description here](https://raw.githubusercontent.com/exzeros/ProfitPixelsAffiliate/main/profitpixels.png)</p>
+<p align="center"><img src="https://raw.githubusercontent.com/exzeros/ProfitPixelsAffiliate/main/profitpixels.png"/></p>
 
 In-house and direct affiliate offers are terms often used interchangeably, but they possess distinct characteristics. In-house affiliate offers are products or services created by the company that owns the affiliate network. On the other hand, direct affiliate offers are programs offered by advertisers who work directly with affiliates. These types of offers provide unique advantages for affiliate marketers, opening doors to a multitude of opportunities.
 
